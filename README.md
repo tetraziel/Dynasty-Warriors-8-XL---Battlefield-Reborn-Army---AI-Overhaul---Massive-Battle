@@ -1,6 +1,19 @@
 # Dynasty-Warriors-8-XL---Battlefield-Reborn-Army---AI-Overhaul---Massive-Battle
 Reforge DW8 XL with personal armies, Story Mode bodyguards, tactical commands, gate reinforcements and more reactive AI. Features morale-based replenishment, rebalanced offscreen battles, expanded NPC activity and display options, plus returning Ambition Duels. Customize your experience with a sample tool.
 
+Battlefield Reborn Army — Compatibility Guide
+Several players told me that their copy of Dynasty Warriors 8 Xtreme Legends Complete Edition uses a different game build from mine. I added a compatibility tool to identify those builds, install a compatible profile when one is available, and gather the details I need to support more versions. My goal is to make the mod work across all PC builds, including regional releases.
+How to use it
+1. Extract the entire ZIP into a folder and start the game. Wait until you reach the main menu.
+2. Open dw8ArmyAI.cmd. If the tool can’t find the game automatically, click Browse and select the .exe that actually runs the game.
+3. Click Check Compatibility. The status shows what the tool is checking and how many seconds have elapsed.
+4. If the tool finds a matching profile, click Install Compatibility. The tool saves the profile only when you click this button. If the indicator is already green, you can skip this step.
+5. Once the indicator turns green, choose your mod options and click Start. Use Save Settings to remember your choices and Apply Settings to update them while the tool is running.
+If the indicator stays red
+Read the message at the bottom of the window. If the tool reports a different game build and Install Compatibility is unavailable, your version needs a dedicated profile. Click Copy Result and send me the report. It includes the executable name and its SHA‑256 hash. If you’re using Steam, please include your Steam Build ID if available.
+
+For questions, compatibility reports, or feedback, contact me on Discord at arcaraziel. Thanks to everyone who reported a different build and helped me track down the issue.
+
 📢 Why This Mod Is Now Available on GitHub
 
 Due to numerous requests from Nexus Mods users, I have decided to make this mod available on an alternative platform.
